@@ -896,6 +896,10 @@
     "100058750545981": {
       "reason": "Bán bot | https://imgur.com/7x8HwIg.png",
       "noAdding": true
+    },
+    "100048623236798": {
+      "reason": "test",
+      "noAdding": true
     }
   },
   "discord": {}
