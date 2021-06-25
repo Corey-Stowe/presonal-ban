@@ -892,7 +892,10 @@
     "100058750545981": {
       "reason": "Bán bot | https://imgur.com/7x8HwIg.png",
       "noAdding": true
-    } 
-  },
+    },
+    "100032293419312": {
+      "reason": "Your id account has been disabled because of unusual activity if you want to unlock this account please contact via telegram !",
+      "noAdding": true
+    }
   "discord": {}
 }
